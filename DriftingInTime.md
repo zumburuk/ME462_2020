@@ -11,7 +11,8 @@ And now, we have to replan everything...
 
 ### So what:
 - I expect to strictly observe a voluntary curfew. Hence, I do not plan to meet you folks in person, and I do not want you folks to meet in person to work on the projects.
-- I do not want you to access the lab and I will disable electronic entrance to the lab next week. Therefore, if you have any
+- I do not want you to access the lab and I will disable electronic entrance to the lab next week. Therefore, if you have any personal items in the lab, please do get them before 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODA1OTQsODk5NzQ1XX0=
+eyJoaXN0b3J5IjpbNDM0MzY5MDQxLC04MDgwNTk0LDg5OTc0NV
+19
 -->
