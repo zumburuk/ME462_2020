@@ -13,8 +13,8 @@ And now, we have to replan everything...
 - I expect to strictly observe a voluntary curfew. Hence, I do not plan to meet you folks in person, and I do not want you folks to meet in person to work on the projects.
 - I do not want you to access the lab and hence, I will disable electronic entrance to the lab next week. Therefore, if you have any personal items in the lab, please do **get them before wednesday** (i.e. $25^{th} of March$).
 - I am working on a new format for the rest of the semester so that we can continue working together (in groups) without having to physically come together.
-- On the week of $23^{rd}-$
+- On the week of $23^{rd}-29{th}$ please do go over the webots 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE2MjEwNTAsMTQ2NTUxMDMwNSwtOD
-A4MDU5NCw4OTk3NDVdfQ==
+eyJoaXN0b3J5IjpbLTU0NjM1MjMyOSwxNDY1NTEwMzA1LC04MD
+gwNTk0LDg5OTc0NV19
 -->
