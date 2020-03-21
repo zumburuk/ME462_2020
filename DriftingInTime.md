@@ -9,11 +9,12 @@ We have decided at the beginning of the semester that we would add _character_ t
 Yet, then very much expected yet underestimated (_I am referring to my personal short sightedness here_) COVID-19 hit us the way it just hit.  
 And now, we have to replan everything...
 
-### So what:
+### So what is next:
 - I expect to strictly observe a voluntary curfew. Hence, I do not plan to meet you folks in person, and I do not want you folks to meet in person to work on the projects.
 - I do not want you to access the lab and hence, I will disable electronic entrance to the lab next week. Therefore, if you have any personal items in the lab, please do **get them before wednesday** (i.e. $25^{th} of March$).
-- I am working on a new format for the rest 
+- I am working on a new format for the rest of the semester so that we can continue working together (in groups) without having to physically come together.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mzc5MjM0NCwtODA4MDU5NCw4OTk3ND
+eyJoaXN0b3J5IjpbMTQ2NTUxMDMwNSwtODA4MDU5NCw4OTk3ND
 VdfQ==
 -->
