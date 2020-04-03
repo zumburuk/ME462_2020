@@ -1,3 +1,10 @@
+## 3 April 2020
+304...
+
+## Next Meeting
+gantt chart, weekly plans
+
+
 ## 31 March 2020
 
 ### Discussions, issues and decisions:  
