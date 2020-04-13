@@ -1,4 +1,8 @@
 
+## 13 April 2020
+Github documents are read, looks like it is good to begin with
+Simulation concepts discussed
+
 ## 3 April 2020
 304 or 461 decision is no the group
 
