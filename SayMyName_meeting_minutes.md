@@ -1,5 +1,8 @@
-## 3 April 2020
-
+## 13 April 2020
+Weekly content discussed till week 6-7
+Github update is reminded to the group
+Syllabus like content requested
+A final project like assignment is offered for evaluation
 
 ### For next week
 gantt chart, 304 syllabus investigated, flow of concepts with the semesters
