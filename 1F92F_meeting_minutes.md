@@ -1,3 +1,8 @@
+## 13 April 2020
+Gantt Chart checked out
+Git hub opened
+for next week flow of concepts for weeks is expected
+
 ## 3 April 2020
 304...
 
