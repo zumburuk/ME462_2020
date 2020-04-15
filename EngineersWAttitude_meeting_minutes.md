@@ -1,3 +1,9 @@
+## April 2020
+Circuit diagram is analyzed
+Use cases for program flow for different user credentials (hoca, ogrenci)
+3D designs will be investigated...
+github is not an afterthought
+
 ## 31 March 2020
 
 ### Discussions, issues and decisions:  
