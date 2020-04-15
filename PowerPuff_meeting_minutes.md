@@ -1,3 +1,9 @@
+## 15 April 2020
+webots is preferred for simuation environment
+more to look at next time
+eye-gripper scenarios are discussed
+
+
 ## 31 March 2020
 
 
