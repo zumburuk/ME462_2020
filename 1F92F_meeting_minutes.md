@@ -1,3 +1,6 @@
+## 20 April 2020
+went over syllabus... weekly implementations are coming up
+
 ## 13 April 2020
 Gantt Chart checked out
 Git hub opened
