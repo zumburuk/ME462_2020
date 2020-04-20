@@ -1,3 +1,6 @@
+## 20 April 2020
+group is down, they will try to cheer up and meet me in a few days
+
 ## 13 April 2020
 Weekly content discussed till week 6-7
 Github update is reminded to the group
