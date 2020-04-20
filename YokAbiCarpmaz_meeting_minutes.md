@@ -1,3 +1,5 @@
+## 20 April 2020
+Good start, checked outline.pdf and trial code in colab.
 
 ## 13 April 2020
 Github documents are read, looks like it is good to begin with
