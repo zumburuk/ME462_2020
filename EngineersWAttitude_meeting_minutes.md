@@ -1,4 +1,14 @@
-## April 2020
+## 22 April 2020
+Webots sample scene shown
+Game manager significantly improved
+3D robot design included 4WD version
+
+Next week we will check traced version
+MQTT or similar remote connection paradigms will be tested
+
+
+
+## 15 April 2020
 Circuit diagram is analyzed
 Use cases for program flow for different user credentials (hoca, ogrenci)
 3D designs will be investigated...
