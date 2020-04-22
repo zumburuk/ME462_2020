@@ -1,3 +1,7 @@
+## 22 April 2020
+Location of servos is to be decided
+
+
 ## 15 April 2020
 webots is preferred for simuation environment
 more to look at next time
