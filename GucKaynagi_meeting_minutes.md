@@ -1,5 +1,7 @@
-## 15 April 2020
-
+## 23 April 2020
+motorized eyes work for southpark characters
+robot base works as proof of concept
+İsmail will help with training samples in YOLO
 
 ## 31 March 2020
 
