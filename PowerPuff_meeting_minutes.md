@@ -1,3 +1,8 @@
+## 25 April 2020
+Revised eye mechanism is shown
+World is to be composed of colored spheres, cubes with customizable faces, and two robots
+Robot arm should have two servos on the rotary base and base rotation servos should be on the fixed base
+
 ## 22 April 2020
 Location of servos is to be decided
 
