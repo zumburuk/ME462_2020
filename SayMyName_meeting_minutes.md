@@ -1,3 +1,9 @@
+## 27 April 2020
+webots seemed to be too cumbersome and loaded for computers
+offered webgl based solutions: example http://webglsamples.org/aquarium/aquarium.html
+will decide on: colab vs local jupyter
+will decide on what wrapper to use around webgl if wrapper it to be used
+
 ## 20 April 2020
 group is down, they will try to cheer up and meet me in a few days
 
