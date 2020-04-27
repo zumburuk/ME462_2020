@@ -1,3 +1,6 @@
+## 27 April 2020
+week1 started, they are still learning
+
 ## 20 April 2020
 went over syllabus... weekly implementations are coming up
 
