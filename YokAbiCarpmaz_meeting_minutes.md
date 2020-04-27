@@ -1,3 +1,7 @@
+## 27 April 2020
+ipython notebooks checked
+webots simulations checked
+
 ## 20 April 2020
 Good start, checked outline.pdf and trial code in colab.
 
