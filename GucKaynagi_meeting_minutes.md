@@ -1,4 +1,8 @@
-## 23 April 2020
+## 29 April 2020
+motors are expected
+looking for next week
+
+## 22 April 2020
 motorized eyes work for southpark characters
 robot base works as proof of concept
 İsmail will help with training samples in YOLO
