@@ -1,3 +1,8 @@
+## 29 April 2020
+webots fixed and mobile camera image acquisition, two different distance sensors
+4W GT2 based prototype in progress rear wheel should have a roller bearing in it
+MQTT will be the communication backbone
+
 ## 22 April 2020
 Webots sample scene shown
 Game manager significantly improved
