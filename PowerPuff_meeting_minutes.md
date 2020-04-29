@@ -1,3 +1,7 @@
+## 29 April 2020
+Robot arm involves as required
+World should be even more simplified
+
 ## 25 April 2020
 Revised eye mechanism is shown
 World is to be composed of colored spheres, cubes with customizable faces, and two robots
