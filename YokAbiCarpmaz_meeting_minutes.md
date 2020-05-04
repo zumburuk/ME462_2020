@@ -1,3 +1,8 @@
+## 5 May 2020
+colab updated
+webots moved to 2020b so that parts from solidworks are easier to import
+openloop repeatability issues are discussed, fixed or lower time steps shoud fix it
+
 ## 27 April 2020
 ipython notebooks checked
 webots simulations checked
