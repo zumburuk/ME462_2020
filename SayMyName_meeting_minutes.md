@@ -1,3 +1,6 @@
+## 4 May 2020
+moving on...
+
 ## 27 April 2020
 webots seemed to be too cumbersome and loaded for computers
 offered webgl based solutions: example http://webglsamples.org/aquarium/aquarium.html
