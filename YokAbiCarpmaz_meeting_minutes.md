@@ -1,4 +1,4 @@
-## 5 May 2020
+## 4 May 2020
 colab updated
 webots moved to 2020b so that parts from solidworks are easier to import
 openloop repeatability issues are discussed, fixed or lower time steps shoud fix it
