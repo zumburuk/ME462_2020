@@ -1,3 +1,8 @@
+## 6 May 2020
+Yolo trained with dartknet for a single image
+Arm assembled
+cool
+
 ## 29 April 2020
 motors are expected
 looking for next week
