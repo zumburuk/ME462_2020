@@ -1,3 +1,7 @@
+## 6 May 2020
+3D vehicle design is almost done
+rest is coming up...
+
 ## 29 April 2020
 webots fixed and mobile camera image acquisition, two different distance sensors
 4W GT2 based prototype in progress rear wheel should have a roller bearing in it
