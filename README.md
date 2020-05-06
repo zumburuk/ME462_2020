@@ -2,7 +2,7 @@
 
 Githubs:  
 P.tesi 14:30 - [SayMyName](https://github.com/cinaral/saymyname)  
-P.tesi 15:30 - [YokAbiCarpmaz](https://github.com/yokabicarpmaz/ME462_ControlSystemsTools)
+P.tesi 15:30 - [YokAbiCarpmaz](https://github.com/yokabicarpmaz/ME462_ControlSystemsTools)  
 P.tesi 17:30 - [1F92F](https://github.com/Dengesizizm/ME462Project)  
 
 
