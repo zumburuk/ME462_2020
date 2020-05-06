@@ -1,3 +1,8 @@
+## 6 May 2020
+Eye should improve... much more
+Arm is almost there
+Simulation on a representative arm is in progress
+
 ## 29 April 2020
 Robot arm involves as required
 World should be even more simplified
