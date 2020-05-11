@@ -1,4 +1,5 @@
 ## 11 May 2020
+moving on... week3 is almost done...
 
 ## 4 May 2020
 moving on
