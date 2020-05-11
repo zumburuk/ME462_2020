@@ -1,4 +1,7 @@
 ## 11 May 2020
+Control_actions.ipynb added
+controllers are added to sun tracker
+ball and the beam to come up...
 
 ## 4 May 2020
 colab updated
