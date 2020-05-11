@@ -1,3 +1,7 @@
+## 11 May 2020
+ipyvolume vs matplotlib: ipyvolume better on screen planning matplotlib better on 3d displays
+Yusuf Can and Sercan needs to improve for next week.
+
 ## 4 May 2020
 moving on...
 
