@@ -1,3 +1,7 @@
+## 13 May 2020
+3D parts will be printed and tested.
+Webot world generator is developing...
+
 ## 6 May 2020
 3D vehicle design is almost done
 rest is coming up...
