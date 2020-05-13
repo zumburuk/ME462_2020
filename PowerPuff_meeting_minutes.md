@@ -1,3 +1,8 @@
+## 13 May 2020
+Eye is much better, getting ready for print
+Arm is partiallay printed for testing
+Webots is improving
+
 ## 6 May 2020
 Eye should improve... much more
 Arm is almost there
