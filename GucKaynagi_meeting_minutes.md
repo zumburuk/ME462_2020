@@ -1,3 +1,8 @@
+## 13 May 2020
+Meshroom scan complete
+Arm printed and tested for the base link
+Deep face, face.net tested
+
 ## 6 May 2020
 Yolo trained with dartknet for a single image
 Arm assembled
