@@ -1,3 +1,8 @@
+## 18 May 2020
+Ball and the beam improving
+mass spring started
+transient response started, control actions completed
+
 ## 11 May 2020
 Control_actions.ipynb added
 controllers are added to sun tracker
