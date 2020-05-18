@@ -1,3 +1,8 @@
+## 18 May 2020
+Arda holding on
+Giray working on week4 with electrical circuits
+Alptuğ still working on governor
+
 ## 11 May 2020
 moving on... week3 is almost done...
 
