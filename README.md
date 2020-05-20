@@ -1,7 +1,7 @@
 # ME462_2020
 
 Githubs:  
-P.tesi 14:30 - [SayMyName](https://github.com/cinaral/saymyname): Sercan Aslan, Ali Levent Çınar, Yusuf Can Coşkun  
+P.tesi 14:30 - [SayMyName](https://github.com/cinaral/saymyname): *Sercan* Aslan, *Ali Levent* Çınar, *Yusuf Can* Coşkun  
 P.tesi 15:30 - [YokAbiCarpmaz](https://github.com/yokabicarpmaz/ME462_ControlSystemsTools): Sinan Çimen, Erdam Ata, Ceyda Koruk  
 P.tesi 17:30 - [1F92F](https://github.com/Dengesizizm/ME462Project): Alptuğ Öztaşkın, Arda Özarslan, Giray Önür  
 
