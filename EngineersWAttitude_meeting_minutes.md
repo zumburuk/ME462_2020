@@ -1,3 +1,9 @@
+## 20 May 2020
+Robot 3D details discussed
+Robot code developing
+Webots with real robots case is almost done
+Ege had a test
+
 ## 13 May 2020
 3D parts will be printed and tested.
 Webot world generator is developing...
