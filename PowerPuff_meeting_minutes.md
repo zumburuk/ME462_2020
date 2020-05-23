@@ -1,6 +1,6 @@
 ## 23 May 2020
-Hatem continues to webots and to transform other designs to webots
-Denge moved on in the design of the eye
+Hatem continues to webots and to transform other designs to webots  
+Denge moved on in the design of the eye  
 Okan is almost complete, moved stuff to onShape, end effector interface and base motor belt connection will be studied
 
 ## 13 May 2020
