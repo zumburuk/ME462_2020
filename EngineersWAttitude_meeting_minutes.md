@@ -1,6 +1,6 @@
 ## 03 June 2020
-3D design improves
-Koral has finals: june 1 5 5 7 11 finals
+3D design improves  
+Koral has finals: june 1 5 5 7 11 finals  
 Robot manager improves
 
 ## 20 May 2020
