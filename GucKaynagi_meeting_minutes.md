@@ -1,3 +1,8 @@
+## 6 June 2020
+After the finals we will resume
+Alicevision script written
+7 segment Font to coordinate conversion is written
+
 ## 20 May 2020
 postponed
 
