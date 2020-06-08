@@ -1,3 +1,8 @@
+## 08 June 2020
+went over the weekly plan  
+pygame or similar alternatives will be investigated  
+a thematic interactive environment will be evaluated
+
 ## 18 May 2020
 developing...
 
