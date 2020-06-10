@@ -1,7 +1,7 @@
 ## 10 June 2020
-Robot gripper awesome...
-Hatem is to determine the simulator
-Denge's eye is getting better
+Robot gripper awesome...  
+Hatem is to determine the simulator  
+Denge's eye is getting better  
 
 ## 23 May 2020
 Hatem continues to webots and to transform other designs to webots  
